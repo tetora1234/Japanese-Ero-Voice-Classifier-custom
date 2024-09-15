@@ -1,0 +1,13 @@
+{
+    "model": {
+        "label2id": {
+            "usual": 0,
+            "aegi": 1,
+            "chupa": 2
+        },
+        "num_hidden_layers": 2,
+        "hidden_dim": 128
+    },
+    "lr": 0.001,
+    "lr_decay": 0.996
+}

@@ -1,0 +1,4 @@
+gradio
+loguru
+pyannote.audio
+torch
